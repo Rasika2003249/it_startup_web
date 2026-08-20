@@ -8,8 +8,8 @@ import 'cart_drawer.dart';
 import 'order_modal.dart';
 
 /// Modal dialog providing a simulated 4K HD chef preparation video
-/// for the chosen menu dish with animated timeline stages and instant order CTAs.
-class DishVideoModal extends StatefulWidget {
+/// for the chosen menu dish with animated timeline stages and instant order C
+class DishVideoModal extends StatefulWidget { 
   final Map<String, dynamic> dish;
 
   const DishVideoModal({super.key, required this.dish});
